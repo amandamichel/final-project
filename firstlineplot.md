@@ -1,5 +1,5 @@
 # Getting Started with R Studio
 
-## I did the Challenge Question plot
+## Challenge Question Plot
 
 ![](challenge_question_plot_W1.png)
