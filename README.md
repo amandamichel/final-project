@@ -1,3 +1,3 @@
-# Wicked Problems Final Project
+# Wicked Problems
 
-This is my first file for the DATA 100 final project.
+This is my first file for my DATA 100 github site.
