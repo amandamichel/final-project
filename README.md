@@ -1,3 +1,3 @@
-# Wicked Problems
+# Wicked Problems Index
 
-This is my first file for my DATA 100 github site.
+Getting Started with RStudio
