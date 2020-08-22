@@ -1,3 +1,3 @@
 # Wicked Problems Index
 
-Getting Started with RStudio
+Getting Started with RStudio ![](firstlineplot.md)
