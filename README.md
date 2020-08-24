@@ -1,3 +1,5 @@
-# Wicked Problems Index
+# Amanda Michel: Wicked Problems Index
 
-[Getting Started with RStudio](firstplot.md)
+Aug 24, 2020: [Getting Started with RStudio: Line Plot](firstplot.md)
+
+Aug 26, 2020: [Getting Started with RStudio: More Complicated Plot](complexplot.md)
