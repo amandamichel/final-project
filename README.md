@@ -1,3 +1,3 @@
 # Wicked Problems Index
 
-[Getting Started with RStudio](firstlineplot.md)
+[Getting Started with RStudio](firstplot.md)
