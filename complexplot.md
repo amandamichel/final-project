@@ -1,1 +1,1 @@
-## Getting Started with RStudio: A More Complicated Plot
+# Getting Started with RStudio: A More Complicated Plot
