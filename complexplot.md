@@ -2,6 +2,11 @@
 
 ## A More Complicated Plot
 
+![](path_btw_homes.png)
+
+My variables x and y each had a range of 1 to 100. Ten random dwellings were established and added to a data frame. I also created 20 trees at random locations- 10 big and 10 small. Three random dwellings were chosen and labeled; and path between them was added to the plot.
+
+
 ## Challenge Question Plot
 
 ![](challenge_question_plot_W1.png)
