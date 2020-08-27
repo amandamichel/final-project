@@ -1,4 +1,4 @@
-<img src="headshot.jpeg" width=120 height=120 />
+<img alight="center" src="headshot.jpeg" width=120 height=120 />
 
 # Amanda Michel: Wicked Problems
 
