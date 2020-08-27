@@ -4,10 +4,10 @@ Below is a series of bar plots representing various specificities of Liberia's p
 
 ## The Plots
 
-![](pop_sex_source.png)
-![](pop_sex_remote.png)
-![](pop_diff.png)</br>
+![](pop_sex_source.png)<br/>
+![](pop_sex_remote.png)<br/>
+![](pop_diff.png)<br/>
 (Positive values correlate with higher source data values, while negative values correlate with higher remote data values.)
-![](pop_diff_per.png)
-![](pop_dens.png)</br>
+![](pop_diff_per.png)<br/>
+![](pop_dens.png)<br/>
 (This plot is the exception to the specifications of the y axis above. Instead, the y axis shows number of people per square kilometer of land.)
