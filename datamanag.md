@@ -9,7 +9,7 @@ Below is a series of bar plots representing various specificities of Liberia's p
 ![](pop_sex_remote.png)
 
 ![](pop_diff.png)<br/>
-(Positive values correlate with higher source data values, while negative values correlate with higher remote data values.)
+(Positive values correlate with higher source data values, while negative values correlate with higher remote data values.)<br/>
 ![](pop_diff_per.png)<br/>
 
 ![](pop_dens.png)<br/>
