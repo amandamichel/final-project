@@ -1,6 +1,6 @@
 # Amanda Michel: Wicked Problems
 
-<img src="headshot.jpeg"  width=170 height=170 align="left" style= "padding-right:10" /> 
+<img src="headshot.jpeg"  width=170 height=170 align="left"  padding-right="10" /> 
 
 ## Bio
 <p>Hi! I'm from Springfield, VA, and I intend to major in Computer Science. Academically, my interests are most anything STEM-related, with an emphasis on technology and math. In my free time, I like to cook, read, and debate about Star Wars. </p>
