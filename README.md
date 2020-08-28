@@ -1,6 +1,6 @@
 # Amanda Michel: Wicked Problems
 
-<img src="headshot.jpeg"  width=200 height=200 align=left HSPACE=50 VSPACE=25/> 
+<img src="headshot.jpeg"  width=200 height=200 align=left HSPACE=25 VSPACE=25/> 
 
 
 
