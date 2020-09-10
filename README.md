@@ -8,6 +8,9 @@
 ## Project Index
 [Project One](project1.md)<br/>
 
+## Reflection Index
+[Reflection One](reflection1.md)<br/>
+
 ## Individual Assignment Index
 Aug 24, 2020: [Getting Started with RStudio: Line Plot](lineplot.md)<br/>
 Aug 26, 2020: [Getting Started with RStudio: A More Complicated Plot](complexplot.md)<br/>
