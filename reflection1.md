@@ -3,7 +3,7 @@
 
 **Passive data collection** generates data without the active participation of the subject. This means that the data being collected is not always directly and freely given by the subject. Consider a scenario where someone has been hospitalized, then discharged, and can now reside in her home, with one stipulation: the hospital must moniter her constantly. They use GPS and accelerometer data to track physical movements, can view her general phone patterns, and even analyze communications. The amount of data being collected in this scenario is argueably too much, and brings about an abundance of ethical hang-ups, chiefly in the ways of informed consent.
 
-Before considering the ethical dilemmas present in passive data collection, an understanding of what it is used for- and its relative advantages, is required first. Passive data collection is often used hand-in-hand with another concept called **predictive analytics*. 
+Before considering the ethical dilemmas present in passive data collection, an understanding of what it is used for- and its relative advantages, is required first. Passive data collection is often used hand-in-hand with another concept called **predictive analytics**. 
 
 References
 
