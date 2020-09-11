@@ -9,7 +9,7 @@ Many people have considered, researched, and debated the ethics of performing re
 
 References
 
-Maher, N. A., Senders, J. T., Hulsbergen, A. F., Lamba, N., Parker, M., Onnela, J., . . . Broekman, M. L., Passive data collection and use in healthcare: A systematic review of ethical issues. *International Journal of Medical Informatics.* **129**, 242-247 (2019). </br>
+Maher, N. A., Senders, J. T., Hulsbergen, A. F., Lamba, N., Parker, M., Onnela, J.P., Bredenoord A. L., Smith T.R., & Broekman, M. L., Passive data collection and use in healthcare: A systematic review of ethical issues. *International Journal of Medical Informatics.* **129**, 242-247 (2019). </br>
 Parikh, R. B., Obermeyer, Z., & Navathe, A. S., Regulation of predictive analytics in medicine. *Science.* **363(6429)**, 810-812 (2019) <br/>
          
 <!-- Notes:
