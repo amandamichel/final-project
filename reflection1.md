@@ -9,8 +9,8 @@ Many people have considered, researched, and debated the ethics of performing re
 
 References
 
-Maher, N. A., Senders, J. T., Hulsbergen, A. F., Lamba, N., Parker, M., Onnela, J., . . . Broekman, M. L. (2019). Passive data collection and use in healthcare: A systematic review of ethical issues. *International Journal of Medical Informatics, 129,* 242-247. doi:10.1016/j.ijmedinf.2019.06.015 </br>
-Parikh, R. B., Obermeyer, Z., &amp; Navathe, A. S. (2019). Regulation of predictive analytics in medicine. Science, 363(6429), 810-812. doi:10.1126/science.aaw0029 <br/>
+Maher, N. A., Senders, J. T., Hulsbergen, A. F., Lamba, N., Parker, M., Onnela, J., . . . Broekman, M. L., Passive data collection and use in healthcare: A systematic review of ethical issues. *International Journal of Medical Informatics.* **129**, 242-247 (2019). </br>
+Parikh, R. B., Obermeyer, Z., & Navathe, A. S., Regulation of predictive analytics in medicine. *Science.* **363(6429)**, 810-812 (2019) <br/>
          
 <!-- Notes:
 PDC: data generated without the active participation of the subject
