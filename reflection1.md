@@ -22,6 +22,6 @@ what if you get consent? this still causes people to feel "tracked"; what should
  
 References
 
-Maher, N. A., Senders, J. T., Hulsbergen, A. F., Lamba, N., Parker, M., Onnela, J., . . . Broekman, M. L. (2019). Passive data collection and use in healthcare: A systematic review of ethical issues. *International Journal of Medical Informatics, 129,* 242-247. doi:10.1016/j.ijmedinf.2019.06.015
+Maher, N. A., Senders, J. T., Hulsbergen, A. F., Lamba, N., Parker, M., Onnela, J., . . . Broekman, M. L. (2019). Passive data collection and use in healthcare: A systematic review of ethical issues. *International Journal of Medical Informatics, 129,* 242-247. doi:10.1016/j.ijmedinf.2019.06.015 </br>
 Yohn, A. (2020, July 08). 10 Ways Predictive Analytics in Insurance will Shape the Industry in 2020. Retrieved September 10, 2020, from https://www.duckcreek.com/blog/predictive-analyitics-reshaping-insurance-industry/
          
