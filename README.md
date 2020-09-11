@@ -9,7 +9,7 @@
 [Project One](project1.md)<br/>
 
 ## Reflection Index
-[Reflection One](reflection1.md)<br/>
+[Reflection One](reflection1.md): Passive Data Collection in Medicine<br/>
 
 ## Individual Assignment Index
 Aug 24, 2020: [Getting Started with RStudio: Line Plot](lineplot.md)<br/>
