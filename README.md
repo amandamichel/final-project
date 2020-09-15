@@ -16,3 +16,5 @@ Aug 24, 2020: [Getting Started with RStudio: Line Plot](lineplot.md)<br/>
 Aug 26, 2020: [Getting Started with RStudio: A More Complicated Plot](complexplot.md)<br/>
 Aug 28, 2020: [Data Management Basics](datamanag.md)<br/>
 Sep 04, 2020: [Project 1, Part 1](p1part1.md)<br/>
+Sep 11, 2020: [Reflection One](reflection1.md)<br/>
+Sep 14, 2020: [Project 1, Part 2](p1part2.md)<br/>
