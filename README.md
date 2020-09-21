@@ -19,3 +19,4 @@ Aug 28, 2020: [Data Management Basics](datamanag.md)<br/>
 Sep 04, 2020: [Project 1, Part 1](p1part1.md)<br/>
 Sep 11, 2020: [Reflection One](reflection1.md)<br/>
 Sep 14, 2020: [Project 1, Part 2](p1part2.md)<br/>
+Sep 20, 2020: [Project 2, Part 1](p2part1.md)<br/>
