@@ -7,6 +7,7 @@
 
 ## Project Index
 [Project One](project1.md)<br/>
+[Project Two](project2.md)<br/>
 
 ## Reflection Index
 [Reflection One](reflection1.md): Passive Data Collection in Medicine<br/>
