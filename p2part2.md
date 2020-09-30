@@ -3,10 +3,10 @@ For this projects, I wanted to look at how the worth fast food companies can imp
 #Starbucks, Dunkin' Donuts respectively. <br/>
 
 ## Deliverable One
-The following plot is split into nine sections by total population differences from 2010 to 2014. In other words, the only qualifier as to how this plot is split is the total difference in population from 2010 to 2014. The greatest differences are found in bracket one.<br/>
+The following plot shows the relationship of the UBER stock value with each of the predictor stocks on the previous date. Note that the trend can be essentially generalized to a positive linear correlation in every case. <br/>
 ![](uber_stock.png)<br/>
 
 ## Deliverable Two
-This plot is split by average annual growth rate. The average growth rate taken is calculated by first calculating the annual growth rates individually from 2010 to 2011, then 2011 to 2012, and so on. These four rates are averaged together, and through that average is this plot split up. The greatest growth rates are found in bracket nine.<br/>
+This is the output summary of the statistical model where UBER is the predicted stock and MCD, YUM, CMG, SBUX, and DNKN are the predictive stocks. This model has an adjusted r-squared value of 0.6403, meaning the model is accurate ~64.03% of the time.<br/>
 ![](uber_summary.png)<br/>
 
