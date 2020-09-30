@@ -1,6 +1,6 @@
 # Project Two, Part Two: Intro to Data Science - Using the Stock Market to Describe, Analyze and Predict
-For this projects, I wanted to look at how the worth fast food companies can impact a delivery company, like UberEats. So, I selected UBER to be my predicted stock and my predictive stocks as MCD, YUM, CMG, SBUX, and DNKN. These are Uber, McDonald's, Yum!Brands (parent company to Taco Bell, KFC, & Pizza Hut), Chipotle, 
-#Starbucks, Dunkin' Donuts respectively. <br/>
+For this project, I wanted to look at how the worth fast food companies can impact a delivery company, like UberEats. So, I selected UBER to be my predicted stock and my predictive stocks as MCD, YUM, CMG, SBUX, and DNKN. These are Uber, McDonald's, Yum!Brands (parent company to Taco Bell, KFC, & Pizza Hut), Chipotle, 
+Starbucks, Dunkin' Donuts respectively. <br/>
 
 ## Deliverable One
 The following plot shows the relationship of the UBER stock value with each of the predictor stocks on the previous date. Note that the trend can be essentially generalized to a positive linear correlation in every case. <br/>
