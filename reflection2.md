@@ -7,4 +7,4 @@ Nate Silver simplifies their approach to the predictive model into three major s
 
 *References*
 
-Silver, Nate, How FiveThirtyEight’s 2020 Presidential Forecast Works — And What’s Different Because Of COVID-19. *FiveThirtyEight* (12 Aug 2020). <br/>
+Silver, Nate, [How FiveThirtyEight’s 2020 Presidential Forecast Works — And What’s Different Because Of COVID-19.](https://fivethirtyeight.com/features/how-fivethirtyeights-2020-presidential-forecast-works-and-whats-different-because-of-covid-19/) *FiveThirtyEight* (12 Aug 2020). <br/>
