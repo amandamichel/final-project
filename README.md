@@ -23,4 +23,4 @@ Sep 14, 2020: [Project 1, Part 2](p1part2.md)<br/>
 Sep 20, 2020: [Project 2, Part 1](p2part1.md)<br/>
 Sep 30, 2020: [Project 2, Part 2](p2part2.md)<br/>
 Oct 01, 2020: [Reflection Two](reflection2.md)<br/>
-Oct 04, 2020: Project 2, Part 3<br/>
+Oct 04, 2020: [Project 2, Part 3](p2part3.md)<br/>
