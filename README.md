@@ -28,3 +28,4 @@ Oct 01, 2020: [Reflection Two](reflection2.md)<br/>
 Oct 04, 2020: [Project 2, Part 3](p2part3.md)<br/>
 Oct 09, 2020: [Project 3, Part 1](p3part1.md)<br/>
 Oct 16, 2020: [Reflection Three](reflection3.md)<br/>
+Oct 16, 2020: [Project 3, Part 2](p3part2.md)<br/>
