@@ -1,4 +1,4 @@
-# An Intro to Deep AI
+# An Introduction to Deep AI
 ## Defining Deep Learning and Genetic Programming
 
 AI is an ever expanding field within Data Science. The purpose of this field as a whole is to mimic the human brain as closely as possible in technology. Naturally, a starting point in both the development and understanding of AI is something called Genetic Programming.
