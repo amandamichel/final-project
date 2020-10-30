@@ -15,7 +15,7 @@
 [Reflection One](reflection1.md): Passive Data Collection in Medicine<br/>
 [Reflection Two](reflection2.md): Predicting Political Elections<br/>
 [Reflection Three](reflection3.md): An Introduction to Deep AI<br/>
-<!--[Reflection Four](reflection4.md): An Introduction to Deep AI<br/>-->
+[Reflection Four](reflection4.md): An Introduction to Deep AI<br/>
 
 ## Individual Assignment Index
 Aug 24, 2020: [Getting Started with RStudio: Line Plot](lineplot.md)<br/>
@@ -31,6 +31,6 @@ Oct 04, 2020: [Project 2, Part 3](p2part3.md)<br/>
 Oct 09, 2020: [Project 3, Part 1](p3part1.md)<br/>
 Oct 16, 2020: [Reflection Three](reflection3.md)<br/>
 Oct 16, 2020: [Project 3, Part 2](p3part2.md)<br/>
-<!-- Oct 28, 2020: [Project 4, Part 1](p4part1.md)<br/>
+<!-- Oct 28, 2020: [Project 4, Part 1](p4part1.md)<br/> -->
 Oct 30, 2020: [Reflection Four](reflection4.md)<br/>
-Oct 30, 2020: [Project 4, Part 2](p4part2.md)<br/> -->
+<!--Oct 30, 2020: [Project 4, Part 2](p4part2.md)<br/> -->
