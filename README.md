@@ -15,7 +15,7 @@
 [Reflection One](reflection1.md): Passive Data Collection in Medicine<br/>
 [Reflection Two](reflection2.md): Predicting Political Elections<br/>
 [Reflection Three](reflection3.md): An Introduction to Deep AI<br/>
-[Reflection Four](reflection4.md): An Introduction to Deep AI<br/>
+[Reflection Four](reflection4.md): A *Deeper* Look into Deep AI<br/>
 
 ## Individual Assignment Index
 Aug 24, 2020: [Getting Started with RStudio: Line Plot](lineplot.md)<br/>
