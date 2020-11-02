@@ -10,4 +10,4 @@ This barplot again shows each each governate by population. However, each indivi
 
 ## Stretch Goal 2
 This is simply the corresponding video to the gif in part 1, stretch goal 3.
-![](tunisia.mp4)<br/>
+[Link To Video](tunisia.mp4)<br/>
