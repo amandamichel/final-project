@@ -9,7 +9,7 @@
 [Project One](project1.md)<br/>
 [Project Two](project2.md)<br/>
 [Project Three](project3.md)<br/>
-<!--[Project Four](project4.md)<br/>-->
+[Project Four](project4.md)<br/>
 
 ## Reflection Index
 [Reflection One](reflection1.md): Passive Data Collection in Medicine<br/>
@@ -33,4 +33,4 @@ Oct 16, 2020: [Reflection Three](reflection3.md)<br/>
 Oct 16, 2020: [Project 3, Part 2](p3part2.md)<br/>
 Oct 28, 2020: [Project 4, Part 1](p4part1.md)<br/>
 Oct 30, 2020: [Reflection Four](reflection4.md)<br/>
-<!--Oct 30, 2020: [Project 4, Part 2](p4part2.md)<br/> -->
+Oct 30, 2020: [Project 4, Part 2](p4part2.md)<br/>
