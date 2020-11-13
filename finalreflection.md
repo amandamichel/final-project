@@ -1,1 +1,14 @@
+## Data Science Knowledge Creation
 
+"Revolutions in science have often been preceded by revolutions in measurement"[1]. Data Science is somply our newest and most expansive revolution in understanding measurement. We use data science as a means of understanding everything in the world around us, from "the origins of the  universe, [to] the  nature  of  evolutionary  processes, [and] the  growth  of  the economy"[2]. It is only logical that the next pursuit of data science is to understand humans and our behaviors in the same way we have begun to understand our surrounding. What we learn about ourselves and our behaviors will inform how we, as a collective, will move forward and advance.
+
+One important aspect of understanding why people behave the way they do is to look at the things they respond to. In other words, no one behaves without some sort of push or cause, even if that behavior is innate; to understand behavior, we must first understand tha causes. For example, a rather significant indicator of how successful an individual will be is *where* she lives, which is generally not something she herself chooses at the beginning of her life. Where this individual lives dictates her access to resources-- healthcare, education, and economic opportunity. All of these things, none of which she has choice over, will motivate her behaviors, and so, the understanding of these factors and their effects is crucial to the understanding of human behavior. 
+
+Human behavior is at the core of our economic and social systems-- an understanding of one *is* an understanding of the other. It is worth noting how close these systems are to our nature. *Art imitates life* is not just simply a trite cliche; it quite adequately describes this phenomenon. Most things people create, whether it is one individual's contribution or invention or something collectively created for and by people (for example, an economic system), imitates nature in one way or another: "economic systems are not like evolutionary systems, they are evolutionary systems" [3].
+
+Ultimately, humans come down to data. We quantify our surroundings in the pursuit of understanding. We as humans have decided to quantify ourselves in the same way we quantify our surroundings: as data. That is, rather than viewing data as something that we can use to understand human behavior, data is is simply our empirical way of representing human behavior. We use human behavior, in an empirical form, in combination with static variables-- like geographic surroundings or access to a given resources-- to understand and, arguably more importamtly, to *predict* human behaviour. From this perspective, the absolutely expansive capacity of data and data science as something to understand almost everything in our world makes sense. 
+
+*References*
+1. Sinan Aral, *Kitchen*, 2014
+2. Geoff West, *Scale*, 2018
+3. "Development and Complexity," Owen Barder, 2012.
